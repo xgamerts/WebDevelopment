@@ -5,7 +5,7 @@ You can download the project and use it to learn everything about web developmen
 You can not sell the project.
 You can not claim it as your own.
 If you share the project the creator has to be credited in youtube vidoes, twitch streams etc:
-# Credit themplate:
+# Credit template:
 The book was made by:
 Martinus T.S.
 {Download link or repositary link}
