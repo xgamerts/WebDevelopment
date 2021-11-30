@@ -1,4 +1,4 @@
-# WebDevelopment
+# HTML
 From beginner to master
 # Rules:
 You can download the project and use it to learn everything about web development.
