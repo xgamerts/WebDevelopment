@@ -1,7 +1,7 @@
 # HTML
 From beginner to master
 # Rules:
-You can download the project and use it to learn everything about web development.
+You can download the project and use it to learn everything about HTML.
 You can not sell the project.
 You can not claim it as your own.
 If you share the project the creator has to be credited in youtube vidoes, twitch streams etc:
